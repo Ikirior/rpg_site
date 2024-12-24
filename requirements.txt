@@ -2,4 +2,4 @@ Flask
 folium
 pandas
 requests
-gunicorn==20.1.1
+gunicorn
